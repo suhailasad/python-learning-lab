@@ -57,6 +57,22 @@ Boolean logic and conditional statements:
 - **If Statements**: Conditional code execution
 - **If-Else Chains**: Multiple conditions with elif and else
 
+### 7. Loops (`7.loops.ipynb`)
+Control flow with repetition:
+- **while Loops**: Repeat while conditions hold true
+- **for Loops**: Iterate over ranges and collections
+- **break / continue**: Early exit or skip iterations
+- **Nested Loops**: Looping within loops for grids or matrices
+- **Practical Patterns**: Counters, accumulators, and simple simulations
+
+### 8. Lists (`8.lists.ipynb`)
+Working with Python's ordered, mutable sequences:
+- **Creating & Length**: Build lists, check size with `len()`
+- **Indexing & Slicing**: Access items, copy subranges, use steps and negatives
+- **Mutation**: Update, append, extend, pop, delete, and concatenate
+- **Iteration**: Loop with and without indexes; membership checks
+- **Utilities**: Max with `-inf`, modulo examples, and practical list exercises
+
 ## Getting Started
 
 1. Open the notebooks in order (start with `1.learn-python.ipynb`)
@@ -79,6 +95,8 @@ Follow the notebooks in numerical order for a structured learning experience:
 4. **Unit Tests** - Practice testing your code
 5. **Python Operators** - Master arithmetic, logical, and bitwise operations
 6. **Comparison** - Work with boolean logic and conditional statements
+7. **Loops** - Control repetition with while/for and flow controls
+8. **Lists** - Store, slice, update, and iterate over sequences
 
 Each notebook builds on concepts from the previous ones, creating a comprehensive foundation in Python programming.
 
